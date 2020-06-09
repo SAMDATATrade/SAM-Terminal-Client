@@ -1,5 +1,14 @@
 # SAM-Terminal-Client
 
+## v2.4.0
+
+更新内容：
+
+1. Terminal 添加回测日志导出功能；
+2. Terminal 数据同步模块添加权限控制；
+3. Terminal 策略编写 UI 调整为可自由伸缩；
+4. Terminal 部分 UI 修复和调整；
+   
 ## v2.3.0
 
 更新内容：
